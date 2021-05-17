@@ -4,6 +4,7 @@
 * Explored a Kaggle dataset with over 100k movies.
 * Used Tableau to create interactive and informative visualizations regarding actors, genres, and Rotten Tomatoes rating.
 * Used highlights, filters, and other techniques to create communicating dashboards.
+* Click the link to see screenshots and summaries of the project.
 
 ![](/images/certified-fresh-rotten-tomatoes-tomatometer.jpg)
 
