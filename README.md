@@ -1,6 +1,8 @@
 # Rafael Suarez's Portfolio
-## Here are some projects which I have completed while pursuing my Master's degree in Statistics and Data Science.
+
+## Here are some projects which I have completed while pursuing my Master's degree in Statistics and Data Science at the University of Houston
 ## They showcase my ability to code, visualize, and write reports summarizing the results. 
+
 
 # [Project 1: Classifying Subject Body Positions Based on Limb Movements](https://github.com/rafasuarez24/position_classification/blob/main/Final_Suarez_Raphael.pdf)
 * Objective of the porject was to classify body positions of subjects with monitors on hands, wrists, and head.
