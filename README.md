@@ -16,7 +16,7 @@
 
 ![](/images/clusters.JPG)
 
-# Project 3: Classifying Fonts Using COnvolutional Neural Networks
+# [Project 3: Classifying Fonts Using COnvolutional Neural Networks](https://github.com/rafasuarez24/fonts_classification/blob/main/6373%20HW3%20Report.pdf)
 * Selected 5 different fonts to classify.
 * Each case was reshaped in order to obtain 20x20 images.
 * 2 convolutional layers and 2 max pooling layers before flattening images into a large vector of features.
