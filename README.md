@@ -1,4 +1,4 @@
-# Suarez_Portfolio
+# Rafael Suarez's Portfolio
 
 # [Project 1: Movies Dataset Visualization](https://github.com/rafasuarez24/movies_project/blob/main/movie_project_summary.pdf)
 * Explored a Kaggle dataset with over 100k movies.
@@ -15,3 +15,9 @@
 * Report and code can be viewed by clicking the link.
 
 ![](/images/clusters.JPG)
+
+# Project 3: Classifying Fonts Using COnvolutional Neural Networks
+* Selected 5 different fonts to classify.
+* Each case was reshaped in order to obtain 20x20 images.
+* 2 convolutional layers and 2 max pooling layers before flattening images into a large vector of features.
+* Secondary objective was to experiment with hidden layer size to find optimal model.
