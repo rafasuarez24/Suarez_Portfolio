@@ -1,4 +1,4 @@
-# Rafael Suarez's Portfolio
+# Welcome, my name is Rafael
 
 ## Here are some projects which I have completed while pursuing my Master's degree in Statistics and Data Science at the University of Houston
 ## They showcase my ability to code, visualize, and write reports summarizing the results. 
