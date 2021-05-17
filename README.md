@@ -1,6 +1,6 @@
 # Welcome, my name is Rafael
 
-## Here are some projects which I have completed while pursuing my Master's degree in Statistics and Data Science at the University of Houston
+## Here are some projects which I have completed while pursuing my Master's degree in Statistics and Data Science at the University of Houston.
 ## They showcase my ability to code, visualize, and write reports summarizing the results. 
 
 
@@ -18,7 +18,7 @@
 * Each case was reshaped in order to obtain 20x20 images.
 * 2 convolutional layers and 2 max pooling layers before flattening images into a large vector of features.
 * Secondary objective was to experiment with hidden layer size to find optimal model.
-* Click on link to see report + results
+* Click on link to see report + results.
 
 ![](/images/Fonts.JPG)
 
