@@ -1,6 +1,6 @@
 # Suarez_Portfolio
 
-# Project 1: Movies Dataset Visualization
+# [Project 1: Movies Dataset Visualization](https://github.com/rafasuarez24/movies_project/blob/main/movie_project_summary.pdf)
 * Explored a Kaggle dataset with over 100k movies.
 * Used Tableau to create interactive and informative visualizations regarding actors, genres, and Rotten Tomatoes rating.
 * Used highlights, filters, and other techniques to create communicating dashboards.
