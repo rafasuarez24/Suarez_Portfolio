@@ -18,6 +18,7 @@
 * Each case was reshaped in order to obtain 20x20 images.
 * 2 convolutional layers and 2 max pooling layers before flattening images into a large vector of features.
 * Secondary objective was to experiment with hidden layer size to find optimal model.
+* Click on link to see report + results
 
 ![](/images/Fonts.JPG)
 
