@@ -2,7 +2,7 @@
 
 # Project 1: Movies Dataset Visualization
 * Explored a Kaggle dataset with over 100k movies.
-* Used Tableau to create interactive and informative visualizations.
+* Used Tableau to create interactive and informative visualizations regarding actors, genres, and Rotten Tomatoes rating.
 * Used highlights, filters, and other techniques to create communicating dashboards.
 
 <img src="https://github.com/rafasuarez24/Suarez_Portfolio/blob/main/images/movies.jpg" width="500" height="300">
